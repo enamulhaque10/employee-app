@@ -1,2 +1,0 @@
-@@@Start command
-yarn start
